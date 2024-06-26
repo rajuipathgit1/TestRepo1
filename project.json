@@ -6,7 +6,6 @@
   "dependencies": {
     "UiPath.Database.Activities": "[1.7.1]",
     "UiPath.Excel.Activities": "[2.22.2]",
-    "UiPath.GitHub.IntegrationService.Activities": "[5.0.7]",
     "UiPath.IntegrationService.Activities": "[1.5.0]",
     "UiPath.Mail.Activities": "[1.12.3]",
     "UiPath.System.Activities": "[23.10.3]",
